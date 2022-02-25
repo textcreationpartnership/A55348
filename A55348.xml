@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Subjection for conscience-sake asserted in a sermon preached at the assizes held at Ant-hill in Bedfordshire, March the 11th, 1682 ... by Tho. Pomfret ...</title>
+            <author>Pomfret, Thomas, d. 1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55348</idno>
+            <idno type="STC">Wing P2801</idno>
+            <idno type="STC">ESTC R3968</idno>
+            <idno type="EEBO-CITATION">12018808</idno>
+            <idno type="OCLC">ocm 12018808</idno>
+            <idno type="VID">52592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52592)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Subjection for conscience-sake asserted in a sermon preached at the assizes held at Ant-hill in Bedfordshire, March the 11th, 1682 ... by Tho. Pomfret ...</title>
+                  <author>Pomfret, Thomas, d. 1705.</author>
+               </titleStmt>
+               <extent>[4], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joanna Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Advertisement at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XIII, 5 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52592:1"/>
+            <pb facs="tcp:52592:1" rendition="simple:additions"/>
+            <p>SUBJECTION FOR Conſcience-ſake Aſſerted in a SERMON Preached at the ASSIZES Held at <hi>ANT-HILL</hi> in <hi>BEDFORDSHIRE. March</hi> the 11<hi rend="sup">th.</hi> 1681/2.</p>
+            <p>Printed at the earneſt Requeſt of the Right Honourable the <hi>Judges,</hi> the Right Worſhipfull the <hi>Sheriff,</hi> and the reſt of the <hi>Juſtices of the Peace</hi> for the ſaid County.</p>
+            <p>By <hi>Tho. Pomfret, A. M.</hi> Vicar of <hi>Luton</hi> in <hi>Bedfordſhire,</hi> and Chaplain to the Right Honourable <hi>ROBERT</hi> EARL of <hi>AILESB<g ref="char:V">Ʋ</g>RY.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joanna Brome</hi> at the Gun at the Weſt end of St. <hi>Paul's.</hi> MDCLXXXII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52592:2"/>
+            <pb facs="tcp:52592:2"/>
+            <head>TO THE RIGHT WORSHIPFULL George Abbot, <abbr>Esq</abbr> High Sheriff of the COUNTY OF BEDFORD.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Did not expect, when by your <hi>Command</hi> I had preach'd this Sermon of Obedi<g ref="char:EOLhyphen"/>ence from the <hi>Pulpit,</hi> to have had the Point of my own <hi>Arguments</hi> turn'd ſo far upon my ſelf as to be oblig'd alſo to ſend it to the <hi>Preſs,</hi> in perfect ſubmiſſion to your <hi>Authority,</hi> and
+<pb facs="tcp:52592:3"/>
+my own <hi>Doctrins.</hi> But I was loath to enter a <hi>Proteſtation</hi> againſt my ſelf, and be the <hi>firſt</hi> that ſhould reſiſt a Perſon ſo much <hi>above</hi> me, and that ought to have an <hi>abſolute</hi> Power o<g ref="char:EOLhyphen"/>ver me, having paſſ'd ſuch great <hi>obligations</hi> upon me. I ſhall not be ſo unreaſonable, as to beſeech you to <hi>protect</hi> what you have been pleaſ'd to <hi>bring forth;</hi> nor indeed am I much ſolicitous what <hi>fortune</hi> I meet with, being ſa<g ref="char:EOLhyphen"/>tisfied, that no man can hinder me from ac<g ref="char:EOLhyphen"/>quiring that <hi>end</hi> I propounded in the Publica<g ref="char:EOLhyphen"/>tion, which was onely to teſtifie <hi>what defe<g ref="char:EOLhyphen"/>rence I bear to your Commands,</hi> and that by a more ſolemn notice, I might declare how much I am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt humble Servant, <hi>THO. POMFRET.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:52592:3"/>
+            <head>ROMANS XIII. 5. <hi>Wherefore ye muſt needs be ſubject, not onely for wrath, but alſo for conſcience-ſake.</hi>
+            </head>
+            <p>THE Purity of our Religion, and the Excellency of our Govern<g ref="char:EOLhyphen"/>ment, together with the appa<g ref="char:EOLhyphen"/>rent reaſonableneſs and utility, both of our Civil and Eccleſiaſtical Laws, are ſo viſible to any Subject, who ſhall conſider them with an humble and ho<g ref="char:EOLhyphen"/>neſt mind, that one would think the ſu<g ref="char:EOLhyphen"/>preme Power ſhould receive no farther trouble after the preparing ſuch wiſe and wholeſome conſtitutions.</p>
+            <p>But then; if to the goodneſs and wiſ<g ref="char:EOLhyphen"/>dome of our Governours in preſcribing ſuch uſefull and equal meaſures; we con<g ref="char:EOLhyphen"/>ſider that they are inthron'd by God's ap<g ref="char:EOLhyphen"/>pointment, and govern by his Power; their commands receive from thence, all that force and veneration that Religion
+<pb n="2" facs="tcp:52592:4"/>
+can poſſibly adde; becauſe not onely the fear of the Prince, but of God too be<g ref="char:EOLhyphen"/>comes their Sanction. <hi>For we muſt needs be ſubject, not onely for wrath, but alſo for Conſcience-ſake.</hi> In a Chriſtian Common-wealth therefore, where it can but rarely (if at all) happen that we muſt diſobey the Laws of Princes in obedience to the Laws of God, it is the oddeſt thing in all the world to hear men pretending Con<g ref="char:EOLhyphen"/>ſcience againſt their Duty; and think to ſatisfie the Law by grievous out-cries and ſeditious Pamphlets; teaching the Magi<g ref="char:EOLhyphen"/>ſtrate how he ſhould govern, when he is directing them how they ſhould obey: not conſidering that it is more like Chriſti<g ref="char:EOLhyphen"/>ans to doe their duty, and obey the Laws, rather than to be full of talk and argu<g ref="char:EOLhyphen"/>ment to create ſcruples, and fill the heads of their followers with objections againſt them. Thus mens minds are perplex't, and the Government is diſturb'd, and <hi>Conſcience</hi> which is the greateſt <hi>Obligation</hi> in all the world to obedience, as it is or<g ref="char:EOLhyphen"/>der'd, is made the greateſt <hi>Objection.</hi> For you muſt <hi>obey for Conſcience-ſake,</hi> ſays St. <hi>Paul;</hi> but if you have any Conſci<g ref="char:EOLhyphen"/>ence,
+<pb n="3" facs="tcp:52592:4"/>
+you muſt <hi>not obey,</hi> ſo ſay our <hi>new Apoſtles.</hi> To determine therefore this great Caſe I ſhall indeavour three things.</p>
+            <list>
+               <item>I. To ſettle obedience to humane Laws upon the two ſanctions of the Text, the fear of <hi>Wrath,</hi> and the obliga<g ref="char:EOLhyphen"/>tion of <hi>Conſcience.</hi>
+               </item>
+               <item>II. I ſhall give what anſwer I am able, to ſome of thoſe objections which are uſually offer'd to deliver the <hi>Conſcience</hi> from that <hi>Obligation.</hi>
+               </item>
+               <item>III. I ſhall conſider <hi>tenderneſs of Conſci<g ref="char:EOLhyphen"/>ence</hi> how far it ought to be admit<g ref="char:EOLhyphen"/>ted.</item>
+            </list>
+            <p>I. Our firſt undertaking muſt be, <hi>to ſettle obedience to the Laws, upon the pro<g ref="char:EOLhyphen"/>per Sanctions of it,</hi> mention'd in the Text, the <hi>fear of wrath,</hi> and the <hi>obligation of Con<g ref="char:EOLhyphen"/>ſcience.</hi> The one is man's, the other is God's. Fear of wrath is that band of Obedience which humane Power adds to the Law. For though there is a baſeneſs in diſobedience, which all good men hate, and all wiſe men condemn; be<g ref="char:EOLhyphen"/>cauſe it is an enemy to order and de<g ref="char:EOLhyphen"/>ſtructive
+<pb n="4" facs="tcp:52592:5"/>
+of peace, and Society: Yet this being not ſtrong enough to oblige of it ſelf, becauſe ſome people lay aſide all na<g ref="char:EOLhyphen"/>tural goodneſs and juſtice; therefore to all Laws it is neceſſary there ſhould be a puniſhment annex'd, the fear of which, is to reſtrain men from doing againſt the Law.</p>
+            <p>I muſt confeſs thoſe men are no very good Subjects, who obey onely to avoid the penalty; therefore it is made the cha<g ref="char:EOLhyphen"/>racter of a baſe diſpoſition to forbear tranſgreſſing, onely out of a ſlaviſh appre<g ref="char:EOLhyphen"/>henſion of the conſequent evil: but St. <hi>Paul</hi> ſaid, that the Law, that is, the threatning was made, not for the righte<g ref="char:EOLhyphen"/>ous, but for the wicked. For ſo long as men lov'd goodneſs, and took delight in doing well, and had no deſigns againſt common honeſty and juſtice, there was no need to forbid any thing upon the ac<g ref="char:EOLhyphen"/>count of fear, for a good man will ab<g ref="char:EOLhyphen"/>ſtain from all unrighteous practices, though there were no penal Laws in a Common-wealth. But then ſome men having ras'd out all natural Principles; Governments were forc'd to ſuperinduce
+<pb n="5" facs="tcp:52592:5"/>
+the dread of puniſhment; not that the Laws intended to doe any evil, but that <hi>Princes</hi> themſelves and their <hi>Subjects,</hi> ſhould not ſuffer any evil by the diſo<g ref="char:EOLhyphen"/>bedient and unjuſt. For that by fear the malice of ill men be reſtrain'd, and miſ<g ref="char:EOLhyphen"/>chief prevented to communities, is the end of all penal Laws, and the purpoſe of authority. So that wicked men mak<g ref="char:EOLhyphen"/>ing penal Laws neceſſary, they are juſt too, upon the ſame account; becauſe without compulſion it is no Law, and without Law there could be no ſociety, men having laid aſide all ingenuity and goodneſs, and would be herds of Wolves and Tygers but for a power above them.</p>
+            <p>I need not therefore ſpend time, to prove either that the Magiſtrate has a power to make Laws penal, or that it is lawfull to execute them when made; St. <hi>Paul</hi> having determin'd both theſe caſes in this Chapter of the Text moſt clearly: For having firſt reſolv'd Magiſtracy to be the ordinance of God; he then affirms the ſupreme Power to have a ſword in his hand, which he does not bear in vain; but it is in vain if the Prince can make no
+<pb n="6" facs="tcp:52592:6"/>
+Laws to reſtrain, or has no power to pu<g ref="char:EOLhyphen"/>niſh evil: and therefore he adds becauſe of that power of puniſhing, he that tranſ<g ref="char:EOLhyphen"/>greſſes the Law, which he calls doing e<g ref="char:EOLhyphen"/>vil, ought alſo to fear. And of himſelf when he was accuſed of a capital crime, he declares, that if he had done <hi>any thing worthy of death</hi> he refus'd not to die, he never queſtion'd the power, nor ſpake e<g ref="char:EOLhyphen"/>vil of the Government, but onely pro<g ref="char:EOLhyphen"/>teſted his innocency.</p>
+            <p>This being evident, I ſhall leave it to ſtand by its own ſtrength; and ſhall ra<g ref="char:EOLhyphen"/>ther indeavour to remove a great miſtake taken up by our tranſgreſſors of the Laws, which is this; they think, though they break the Law, yet if when they can<g ref="char:EOLhyphen"/>not avoid it, they <hi>undergo the puniſhment,</hi> they reckon themſelves people of a very good conſcience, though they remain in the tranſgreſſion. Now this conceit I the rather ſhall inquire into, becauſe it ſeems to be directly oppoſite to the Text, re<g ref="char:EOLhyphen"/>quiring Obedience <hi>not onely for wrath, but alſo for Conſcience-ſake.</hi> I ſhall take leave therefore to aſſert that the tranſgreſſors of the Law, though they have indur'd the pu<g ref="char:EOLhyphen"/>niſhment,
+<pb n="7" facs="tcp:52592:6"/>
+yet are not diſcharg'd in Con<g ref="char:EOLhyphen"/>ſcience, until they repent alſo the tranſ<g ref="char:EOLhyphen"/>greſſion. And this I preſume will be e<g ref="char:EOLhyphen"/>vident if we conſider but two things; the Nature of the Laws which are broke; and the Rule of the Text for their obſervation.</p>
+            <p>
+               <hi>Firſt,</hi> If we turn to the Laws them<g ref="char:EOLhyphen"/>ſelves, they are not Laws purely penal; but ſuch are call'd mixt penal Laws; that is, when with the duty commanded, there is a penalty annexed upon the not performing of it. As to inſtance in one for all; there is a Law requiring all per<g ref="char:EOLhyphen"/>ſons to hear divine ſervice every Lord's day, which beſides that it is a duty of Religion, is requir'd to be perform'd of every Subject under ſuch a penalty. Now here the intention of the Law is, that all people doe their duty, and it is not ſatiſ<g ref="char:EOLhyphen"/>fied in its deſign, unleſs the duty be per<g ref="char:EOLhyphen"/>form'd; for the Law makes no conditi<g ref="char:EOLhyphen"/>ons for diſobedience, that you may ſtay at home, ſo you pay your money; nor is the penalty added to make the Subject poorer, but better; and for fear to keep him in obedience. So that he who tranſ<g ref="char:EOLhyphen"/>greſſes the Law is puniſh'd for doing evil,
+<pb n="8" facs="tcp:52592:7"/>
+and for the ſame reaſon, even after en<g ref="char:EOLhyphen"/>during the puniſhment, he is bound to re<g ref="char:EOLhyphen"/>pent and doe ſo no more; becauſe every breach of a Good Law is a Sin againſt God, and that is not to be bought off with money; nor is the offence taken a<g ref="char:EOLhyphen"/>way in the Court of Conſcience, by ex<g ref="char:EOLhyphen"/>changing it into a Shilling.</p>
+            <p>
+               <hi>Secondly,</hi> We are to conſider the Rule of the Text, in which it is ſaid we are to <hi>obey not onely for</hi> fear of <hi>wrath, but alſo for Conſcience-ſake.</hi> But therefore if ſuf<g ref="char:EOLhyphen"/>fering the puniſhment did ſatisfie the Law, how can we be ſaid to be bound to obe<g ref="char:EOLhyphen"/>dience by the tyes of Conſcience? But if that be oblig'd, then the offender can never be diſcharg'd but by repenting of the crime, and obeying the Law; for no man's Conſcience can be ſet right but by returning to his duty. And that this may be the better underſtood, I ſhall re<g ref="char:EOLhyphen"/>preſent to you humane Laws with that Sanction which God has added, and ſhow you we are to obey for Conſcience-ſake.</p>
+            <p>This appears <hi>firſt;</hi> becauſe the Power by which the Prince makes Laws is giv<g ref="char:EOLhyphen"/>en him from God. There is no power
+<pb n="9" facs="tcp:52592:7"/>
+but from him, <hi>the powers that be are or<g ref="char:EOLhyphen"/>dained of God,</hi> Rom. XIII. 1. It is all one who commands, God or the King, for it is the power of God in the Prince: The original Authority of making Laws, to direct our Manners and Religion is in God; but then becauſe he ſpeaks unto us not always by himſelf, but ſometimes by the Magiſtrate, who has a power derived from him, we are to receive it as ſpake by God himſelf; and as to obedience, it is as obliging if he commands by Proxie, as if he ſpake in perſon. The way of delivering Laws makes no difference; the power is here onely to be conſider'd: and it being by God's authority the Prince conſtitutes, for that reaſon we are bound to obedience. So that though the ſu<g ref="char:EOLhyphen"/>preme power of making Laws binding the Conſcience is in God, yet ſince he has inſtated the Magiſtrate with this pow<g ref="char:EOLhyphen"/>er, it is binding upon the account of its de<g ref="char:EOLhyphen"/>rivation, becauſe it is God's power in his Miniſter.</p>
+            <p>This will be the more apparent if we adde to it in the <hi>ſecond place,</hi> that the power of puniſhing in the Magiſtrate is
+<pb n="10" facs="tcp:52592:8"/>
+from God. <hi>Vengeance is mine,</hi> ſays God, and when the ſupreme power puniſhes, he is but the Avenger of God's wrath, ſaid St. <hi>Paul.</hi> This is it which our ho<g ref="char:EOLhyphen"/>ly Lord confirmed when he ſaid unto <hi>Pilate, thou couldſt have no power unleſs it were given thee from above.</hi> Therefore we muſt attend the conſequence. If God pu<g ref="char:EOLhyphen"/>niſhes when the Magiſtrate executes, it will follow alſo, that he is offended when the Law is broke; and that every tranſ<g ref="char:EOLhyphen"/>greſſion of an humane ordinance is a vi<g ref="char:EOLhyphen"/>olation of our Duty to God: he is the perſon firſt injur'd, and puts accordingly a Sword into the Magiſtrate's hand to re<g ref="char:EOLhyphen"/>venge it upon the Criminal. For where there is an offence againſt God, as there is in the breach of all juſt Laws, there the Con<g ref="char:EOLhyphen"/>ſcience is concern'd; the one is the demon<g ref="char:EOLhyphen"/>ſtration of the other. This is the reaſon that St. <hi>Peter</hi> eſtabliſhes Subjection upon that intereſt which God himſelf has in the duty, <hi>Obey every ordinance of man for the Lord's ſake.</hi> It is as neceſſary, and as pi<g ref="char:EOLhyphen"/>ous, <note place="margin">1 <hi>Pet.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> has in it the ſame reaſon, and the ſame religion, it is bound upon us with the ſame excellency, and the ſame re<g ref="char:EOLhyphen"/>wards;
+<pb n="11" facs="tcp:52592:8"/>
+nay and diſobedience to humane commands, is threatned with the ſame puniſhment as to the Laws of God; <hi>they</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 13. 2.</note> 
+               <hi>that reſiſt ſhall find to themſelves damnation.</hi>
+            </p>
+            <p>This therefore I find conſented to by moſt, that the Magiſtrate has the power of puniſhing; onely ſome are pleas'd to grant it with this reſtriction; that it is onely for the breach of ſuch Laws, that either in words, or ſenſe, are contain'd in the Divine Commandments. For they ſuppoſe the Prince to be incompetent to make any Laws at all in indifferent things, ſuch as God has left wholly uncommand<g ref="char:EOLhyphen"/>ed; which opinion, the ill conſequences from it, will be ſufficient to overthrow. For this in the <hi>firſt place</hi> takes away the whole power of Princes. <hi>Secondly,</hi> it makes their care and their prudence al<g ref="char:EOLhyphen"/>moſt uſeleſs; if no new proviſions can be made for new neceſſities, if no reſpect muſt be had to times and places, to cuſ<g ref="char:EOLhyphen"/>toms and opinions; but all people muſt be govern'd alike, without any conſidera<g ref="char:EOLhyphen"/>tion to the expediency or uſefulneſs of things. And <hi>laſtly,</hi> no Governments ſhall have any power to preſcribe rules of or<g ref="char:EOLhyphen"/>der
+<pb n="12" facs="tcp:52592:9"/>
+to their people, but they may live at random and in confuſion; and all parties that pretend Scripture for their rule, ſhall ſet up for themſelves, and make their hu<g ref="char:EOLhyphen"/>mours (which they call their Conſcien<g ref="char:EOLhyphen"/>ces) to be the Standard both of the Prince's power, and of their own duty. Which conſequences becauſe they are not to be indur'd, we muſt give to every Common-wealth its own juſt power, to govern their own concerns by what mea<g ref="char:EOLhyphen"/>ſures they themſelves think fitteſt. This all Communities and Churches do require and practiſe. And indeed though at the firſt, it had been no great matter whether ſome Laws had been made; yet when they are made, it is ſome matter that they be kept; then it is that the Conſcience is concern'd.</p>
+            <p>But becauſe the ignorant, and the ſtub<g ref="char:EOLhyphen"/>born, will yet pretend Conſcience againſt obedience, expreſly againſt the doctrine of the Text; and think their Reaſons to be ſufficient to bear them out, and there<g ref="char:EOLhyphen"/>fore may be apt to clamour if their ar<g ref="char:EOLhyphen"/>guments cannot be heard, and fairly con<g ref="char:EOLhyphen"/>ſider'd; I muſt enter upon my ſecond
+<pb n="13" facs="tcp:52592:9"/>
+task which will be to give you an account of ſome of thoſe things that are brought forth to deliver the Conſcience from the obligation that is upon it to humane Laws, together with what may be ſaid in anſwer to them; and then leave you to de<g ref="char:EOLhyphen"/>termine for or againſt Authority, as you ſhall ſee which balance has the moſt weight in it.</p>
+            <p>II. It is ſaid <hi>firſt,</hi> that God alone is to direct and govern the Conſcience, becauſe he onely can look into the mind, ſee into the faults and puniſh the prevarications. And therefore to inſtate humane Authori<g ref="char:EOLhyphen"/>ty with this power beſides the incompe<g ref="char:EOLhyphen"/>tency of giving Laws, where it cannot take notice of the tranſgreſſion) would be an uſurpation upon God's right, and an intrenching upon the Sovereignty of Heaven.</p>
+            <p>
+               <hi>I anſwer;</hi> We do admit that God alone has the Royalty over Conſciences; but then it muſt be added, that God, by that power which he has over the Conſcience, does alſo bind it to the obſervation of hu<g ref="char:EOLhyphen"/>mane Laws. For we do not pretend that
+<pb n="14" facs="tcp:52592:10"/>
+the Laws of men bind it by their own ſtrength, but that it is bound to obey by the command of God. So that his So<g ref="char:EOLhyphen"/>vereignty is not in the leaſt diminiſh'd, but the more eſtabliſh'd, becauſe we ſay that humane Laws could have no obliga<g ref="char:EOLhyphen"/>tion upon the Conſcience if it were not by God's appointment. Nor is it need<g ref="char:EOLhyphen"/>full as the objection does ſuppoſe, that the Sovereign power ſhould inſpect mens Conſciences, in order to their obligation, becauſe God who can ſearch into them has already bound them. The Prince gives but the matter, and the inſtances of obedience, God lays on the compulſion. And indeed the true ſtating of the que<g ref="char:EOLhyphen"/>ſtion would have been ſufficient to this objection; for though we affirm that hu<g ref="char:EOLhyphen"/>mane Laws are tied upon the Conſcience, yet we do not ſay by humane power; the Conſcience is God's Servant, and he binds it. And this anſwers what St. <hi>Paul</hi> teaches in the Text, that <hi>we muſt needs be ſubject, not onely for wrath, but alſo for Con<g ref="char:EOLhyphen"/>ſcience-ſake;</hi> that is, for fear of God's diſ<g ref="char:EOLhyphen"/>pleaſure who has bound the Conſcience to obedience.</p>
+            <p>
+               <pb n="15" facs="tcp:52592:10"/>
+It is urged <hi>ſecondly</hi> that to allow hu<g ref="char:EOLhyphen"/>mane Laws to oblige the Conſcience, is to give up the rights and liberties of Chri<g ref="char:EOLhyphen"/>ſtians into the diſpoſe of humourſome and tyrannical Princes; and contrary both to our prudence and duty; and therefore it is both folly and treachery to become the ſervants of men.</p>
+            <p>To this <hi>I reply,</hi> though this looks like a very pretty Argument, yet the whole thing is not at all to the purpoſe. For we are at no controverſie, whether it be not a part of Chriſtian liberty that the Conſcience be bound by none but God; that matter is readily yielded them; and we do acknowledge that when humane Laws are made, if it was not for the will of God commanding our obedi<g ref="char:EOLhyphen"/>ence, the Conſcience was purely at liber<g ref="char:EOLhyphen"/>ty. But then it is to be added, that when<g ref="char:EOLhyphen"/>ever Laws are made, a neceſſity then is introduc'd upon the Conſcience; becauſe God who is the Lord of it has ſubjected it, when he ſaid, <hi>obey every ordinance of man for the Lord's ſake.</hi> Nay and St. <hi>Peter</hi> who underſtood well enough how far we might appeal to Chriſtian liberty againſt
+<pb n="16" facs="tcp:52592:11"/>
+obedience expreſly tells us, that we muſt not pretend it upon the baſer deſign of carrying on <hi>Sedition,</hi> or <hi>Schiſm,</hi> or <hi>Rebel<g ref="char:EOLhyphen"/>lion</hi> 
+               <note place="margin">1 <hi>Pet.</hi> 2. 15.</note> by it.</p>
+            <p>And therefore it is by no means to be indur'd, that Chriſtian liberty ſhould be ſet up to deſtroy Chriſtian Kings, and the freedoms of Conſcience run out to li<g ref="char:EOLhyphen"/>centiouſneſs of practice; and becauſe our Conſciences are not the ſervants of the Prince, therefore we our ſelves neither will become his ſubjects. Our minds are free, therefore our mouths, and pens, and actions muſt be ſo too; as if Chriſtian, and Libertine, were terms equivalent, and Chriſtian immunity were a toleration to deſtroy all civility, and government, and peace, and humanity. But is there no way for Chriſtians to maintain their li<g ref="char:EOLhyphen"/>berty but by entring upon the rights and prerogatives of Kings? And is Chriſtian liberty ſo much altogether within the in<g ref="char:EOLhyphen"/>cloſure of the Subject, that the Prince has not alſo his ſhare in it? Or muſt the free-born Subject break in upon the Birth-rights and Liberties of the Crown, and reduce it to ſubmiſſion and ſlavery,
+<pb n="17" facs="tcp:52592:11"/>
+that the humourſome Chriſtian may en<g ref="char:EOLhyphen"/>joy what he is pleas'd to call his Chriſtian liberty? <hi>Chriſt</hi> gave not his bloud for this end, nor did he make a purchaſe of a diſ<g ref="char:EOLhyphen"/>obedient, and gain-ſaying people; and as He himſelf ſet up no pretences from God againſt the Rights of <hi>Caeſar,</hi> but determi<g ref="char:EOLhyphen"/>ned to each their proportions of Juſtice, and Obedience; ſo he intended by his Death, and Doctrines, Precepts and Ex<g ref="char:EOLhyphen"/>amples, to render Chriſtians meek, and humble, dutifull and ſubmiſſive; and be confident no man can be God's ſervant, unleſs he be alſo a good Subject.</p>
+            <p>There is one pretence yet behind, that has in it a great deal of clamour, and does moſt of all coſen our peope; and that is this. When the Magiſtrate, or the Mini<g ref="char:EOLhyphen"/>ſters of Religion call upon them to obey the Laws, why God forbid but they ſhould; they are as ready as any to doe that, ſo far as they are good, and juſt, and agreeable to the word of God. But what if they be againſt the word of God? what then? why then, no man calls upon them to obey. For in this we all agree in one Reſolution, that God is to be obey'd, and not man. But
+<pb n="18" facs="tcp:52592:12"/>
+then as this caſe is handled, all our diſobe<g ref="char:EOLhyphen"/>dient people get out at this door: for the whole Rout of Diſſenters, all of them with one mouth declare againſt our Laws, that they are not agreeable to the Word of God. And this is their ſtaple objection, by which the trade of Faction is driven, and their Parties are kept up, and their diſobedience is defended, and they reckon themſelves then beſt of all to follow their conſcien<g ref="char:EOLhyphen"/>ces, when they moſt of all break the Laws.</p>
+            <p>It is methinks <hi>firſt</hi> of all a little odd, that theſe people of ſuch different perſuaſions, as to moſt things elſe, ſhould have their Conſciences ſo exactly ſet to oppoſe the Government. To an indifferent man there<g ref="char:EOLhyphen"/>fore, who hears the out-cryes, and ſees the united endeavours both of the <hi>Papiſt,</hi> and <hi>Diſſenter,</hi> to deſtroy our Church, it looks more like a Confederacy, than a ſcruple. But if it be, as they pretend, a diſſatisfacti<g ref="char:EOLhyphen"/>on of mind; it is yet to be conſider'd, That all theſe Parties do admit, that indeed they are to obey the Laws for Conſcience<g ref="char:EOLhyphen"/>ſake, unleſs the Law it ſelf be againſt the Conſcience, as that is inſtructed by the Word of God. Now here are <hi>two things</hi>
+               <pb n="19" facs="tcp:52592:12"/>
+to be done. To underſtand <hi>firſt</hi> of all, what Conſcience truly is, and not run themſelves out of breath, and the Laws out of countenance, with words and tricks. The <hi>ſecond</hi> thing ſhould be to produce plain, and evident Texts of Scripture, to which our Laws are contrary. Our duty that is made eaſie and familiar, and no<g ref="char:EOLhyphen"/>thing can be ſaid with more authority, or plainneſs, than what St. <hi>Paul</hi> has taught in the <hi>13th</hi> of the <hi>Romans</hi> to eſtabliſh our Duty: but diſobedience is wrapt up in notions, and noiſe, and amuſements; for the Teachers are afraid they ſhall loſe their Herds, and therefore they keep up Con<g ref="char:EOLhyphen"/>ſcience in a continual Ferment; for if they once depart from that word, a fair way is made for Obedience, and the <hi>Dagon</hi> of the Separation is fallen, and the craft by which they get their wealth is diſcover'd; for they know too well, that the ſame ſtrings do both open, and tye up, mens Conſciences, and their Purſes.</p>
+            <p>But the People are all this while abu<g ref="char:EOLhyphen"/>ſed; and the whole thing is a queſtion of Dominion, Whether the Laws or theſe Preachers muſt govern the Conſcience;
+<pb n="20" facs="tcp:52592:13"/>
+and the quarrel is not ſo much between Conformity and Conſcience, as between their Leaders, and the Government. And yet if the pretence be Conſcience, we ſhould doe well to give over our Revilings, and ſuppoſe at leaſt thus far in favour of the Magiſtrate. That he may think his Conſcience as rightly inſtructed to require obedience, as they think their Conſciences directed to diſobey. Certainly the Prince muſt have as much Right to uſe his own meaſures in preſcribing to the Conſcience of his Subjects, as to practice, as they can have to ſet up their practices againſt the Law; and no Magiſtrate can with ſafety, or ſatisfaction, guide his own mind, that ſhall compoſe his Laws to fit only with other mens. And if the humour of any one Party ſhall be a licenſe for their diſo<g ref="char:EOLhyphen"/>bedience, all diſagreeing Perſuaſions will put in for the ſame Privilege; and ſo the Magiſtrate ſhall make Laws to be obey'd by who will, and he muſt alter his Deter<g ref="char:EOLhyphen"/>minations, as oft as a new Conſcience ſhall be ſtarted.</p>
+            <p>Some men are of ſhort underſtandings, and others lye under great prejudices,
+<pb n="21" facs="tcp:52592:13"/>
+they have weak heads, and ſtrong necks, and ſome play upon you with the word Conſcience, but deſign, and intereſt, are under the diſguiſe. Now if the Magi<g ref="char:EOLhyphen"/>ſtrate's conſcience muſt be condemn'd to obſerve all the humours of hot and craſy heads, you may as well make him the Maſter of the <hi>Hoſpitals</hi> and the <hi>Bedlam;</hi> and bid him let all his people run to le<g ref="char:EOLhyphen"/>proſie and madneſs, without controul, or cure. And for the other, the deſigning, and intriguing conſcience; if the Prince muſt not moleſt that, he delivers up his people to craft and violence; and ſuch men as have no conſciences of their own, ſhall ruine a State and Church, by work<g ref="char:EOLhyphen"/>ing upon other mens. And therefore it is better that the Magiſtrate keep his own conſcience, and look to the Govern<g ref="char:EOLhyphen"/>ment; for certainly mens perſuaſions are not to be let alone, to doe miſchief, and deſtroy the peace. And if they will in<g ref="char:EOLhyphen"/>joy their conſciences, let them doe it with<g ref="char:EOLhyphen"/>out calling the people into Conventicles, and making ſeditious Orations, to bring the Laws into contempt, and the people into ſuſpicions, to trouble mens minds,
+<pb n="22" facs="tcp:52592:14"/>
+to diſhonour the Wiſedom of <hi>Parliaments,</hi> and deſtroy both our quiet, and our obe<g ref="char:EOLhyphen"/>dience. Some mens opinions, and other mens intereſt, is the conſcience they ſo much talk of; and then it is no wonder at all, they cannot for their hearts obey, when they themſelves are ſetting up for ſuperiority. But to thoſe, <hi>laſtly,</hi> that are ſeduced, the Magiſtrate would be pati<g ref="char:EOLhyphen"/>ent, and the Laws tender, ſuppoſing that they remain at home, and are humble, and willing to be inſtructed; but if they will remain ignorant, and ſtubborn, the Laws are not to be ſuſpended, becauſe ſome men want wit, and others modeſty, and will think as they liſt, and do as they pleaſe. The Prince muſt not be Lord over our minds, but I hope he may re<g ref="char:EOLhyphen"/>ſtrain our actions, nay, though they have upon them the pretence of <hi>Religion;</hi> for we have known heretofore what practi<g ref="char:EOLhyphen"/>ces have aſſum'd to themſelves the title of <hi>God's Cauſe.</hi> Theſe, I hope, are not to be uſed with the ſame tenderneſs and caution. This puts me upon the <hi>third</hi> and <hi>laſt</hi> Particular of my Text.</p>
+            <p>
+               <pb n="23" facs="tcp:52592:14"/>
+III. To conſider <hi>how far tenderneſs of Conſcience ought to be admitted.</hi> There are a ſort of people that have no great matter to ſay againſt the Laws, but they have a great many ſcruples againſt Obe<g ref="char:EOLhyphen"/>dience. Theſe are ſuch as are pleas'd to give themſelves the Character of men of tender minds. To theſe people, I ſhall only ſay, that, <hi>firſt,</hi> if tenderneſs of mind does proceed from not underſtanding the true nature, or juſt limits, and adequate rules of Conſcience, then theſe ſort of men are to look upon the Laws as their beſt Guide, and Chriſtian Princes as their faireſt Inſtructors; Children are not to chooſe their duty, but to obey their Pa<g ref="char:EOLhyphen"/>rents; and of all things in the world, ig<g ref="char:EOLhyphen"/>norant people are not to be left to them<g ref="char:EOLhyphen"/>ſelves, not to ſet up ſcruples againſt Obe<g ref="char:EOLhyphen"/>dience, but taught what they are to doe, and kept out of harms way.</p>
+            <p>But in the <hi>ſecond place,</hi> if tenderneſs of mind does proceed from the ill diſpoſi<g ref="char:EOLhyphen"/>tion of it, and men cannot reconcile their duty, with their intereſt; why then indeed, our State-Phyſicians muſt cure
+<pb n="24" facs="tcp:52592:15"/>
+it, as they can, by gentle Application, or ſeverer Remedies, as the diſtemper is not ſo hurtfull, or as it is ulcerous, and in<g ref="char:EOLhyphen"/>veterate. But ſome mens tenderneſs is ſhrewdly to be ſuſpected, when it ſhall be conſider'd; that moſt of thoſe things for which they ſo earneſtly contend a<g ref="char:EOLhyphen"/>gainſt the Laws, do evidently ſerve the ends of money and ambition, and have greater deſigns upon riches and power, than heaven, or the ſouls of their Proſe<g ref="char:EOLhyphen"/>lytes.</p>
+            <p>And let the indifferent and uncon<g ref="char:EOLhyphen"/>cern'd part of the world determine, when men ſhall cry out tenderneſs of mind a<g ref="char:EOLhyphen"/>gainſt the Prince's Laws, and have no tenderneſs at all for his Perſon; when they ſhall ſcruple his Commands; but make no ſcruple to invade his Rights; when they themſelves cannot kneel at the Communion, and yet ſhall make their King kneel to a Block; when they ſhall indeavour to ſet up <hi>Chriſt</hi>'s Kingdom, only as a pretence to pull down <hi>Caeſar</hi>'s, and make way for their unlimited Uſur<g ref="char:EOLhyphen"/>pations; when it ſhall be no Treaſon to fight againſt the King, nor no Sacrilege
+<pb n="25" facs="tcp:52592:15"/>
+to make themſelves rich with Church-Plate, and Church-Revenues; every man in theſe caſes, can ſee with half an eye, that tenderneſs of mind can have no good meaning, and the Laws muſt not be over-born by ſuch men of craft and violence.</p>
+            <p>And in fine; becauſe on all hands it is agreed that true tenderneſs of mind does conſiſt in two things. To ſcruple the leaſt ſin, and not to give the leaſt of<g ref="char:EOLhyphen"/>fence; It ſhould be conſider'd in the <hi>firſt place,</hi> that we have no law, in the obedi<g ref="char:EOLhyphen"/>ence to which, we can be ſaid to tranſ<g ref="char:EOLhyphen"/>greſs any Divine appointment; and there<g ref="char:EOLhyphen"/>fore it muſt not be ſaid, that any man diſobeys out of tenderneſs of conſcience, unleſs the thing commanded were con<g ref="char:EOLhyphen"/>trary to Divine inſtitution. And <hi>ſecond<g ref="char:EOLhyphen"/>ly;</hi> ſince tenderneſs of mind does conſiſt in being wary of giving the leaſt offence, certainly in this affair our Governours are much concern'd; and our tender men might conſider, that it is no ſmall ſcan<g ref="char:EOLhyphen"/>dal to bring the Laws into contempt, and by <hi>Petitions</hi> and <hi>Appeals,</hi> by Stories and
+<pb n="26" facs="tcp:52592:16"/>
+               <hi>Pamphlets,</hi> by private <hi>Whiſpers,</hi> and pub<g ref="char:EOLhyphen"/>lick <hi>Calumnies,</hi> to repreſent the King, commanding unequal and unneceſſary things.</p>
+            <p>And ſince as the caſe is handled, a ſcan<g ref="char:EOLhyphen"/>dal muſt light ſomewhere, either upon our wiſe Governours, or our miſ-lead People; the modeſt and the humble will preſume for the Laws, and take care for their Duty; and not comply with thoſe that are train'd up under oppoſition, and hatred, to all that are above them.</p>
+            <p>And the truth is, theſe tender men are ſo much the worſe to be lik'd, becauſe ſome of their own principles, I might ſay, ſome of their very ſelves, notwith<g ref="char:EOLhyphen"/>ſtanding their tenderneſs of Conſcience, in ſome diſputable Points, relating to Ce<g ref="char:EOLhyphen"/>remonies and Modes of worſhip; did yet commit ſuch horrid things both againſt divine, and humane Laws, that no Age, nor no People, though the moſt ſavage, can produce the like. But ſtill if you will not admit of theſe mens motions for Reformation; nor hear their pleas for Peace; nor tolerate their Separation; nor
+<pb n="27" facs="tcp:52592:16"/>
+ſuffer them to muſter in their Conventi<g ref="char:EOLhyphen"/>cles, till by a <hi>Curſe ye Meroz,</hi> they have form'd their followers to give Battel to the wicked; why then good men! pre<g ref="char:EOLhyphen"/>ſently their Conſciences are troubled, and a great Affliction is upon their minds; for the Laws ſit very uneaſie upon thoſe mens ſhoulders, where ſtub<g ref="char:EOLhyphen"/>bornneſs and intereſt do influence the diſ<g ref="char:EOLhyphen"/>obedience.</p>
+            <p>I have done with the Text; I ſhall on<g ref="char:EOLhyphen"/>ly beg your Patience, to <hi>apply</hi> it to this <hi>Day,</hi> and this <hi>Aſſembly.</hi>
+            </p>
+            <p n="1">1. Since God has bound Obedience upon us by his expreſs command, let us as St. <hi>Peter</hi> directs us, <hi>obey every Or<g ref="char:EOLhyphen"/>dinance</hi> 
+               <note place="margin">1 <hi>Pet.</hi> 2. 13.</note> 
+               <hi>of man for the Lord's ſake.</hi> Let us not turn our Religion into Diſputa<g ref="char:EOLhyphen"/>tions, and ſeek out Arguments againſt our Duty, nor find out excuſes to cover our evil Purpoſes. Obedience would be a very eaſie performance to a Chriſtian, if he did not intangle himſelf with nice<g ref="char:EOLhyphen"/>ties, and ſcruples; but it would agree
+<pb n="28" facs="tcp:52592:17"/>
+better with our Name and Profeſſion, to be humble and modeſt, diſpute leſs, and obey more. For Obedience is a part of our Religion, if we may believe the Text; but it is a moſt unworthy thing, and the moſt abominable Hypocriſie to ſet up Religion againſt Obedience, and bring forth Conſcience againſt our duty; which if we have any conſcience, we are bound to perform.</p>
+            <p n="2">2. Becauſe we are under Government, and in ſociety with our Prince, and one another; therefore we are to conſider the honour and benefit of the Publick; to lay aſide our Factions, and private In<g ref="char:EOLhyphen"/>tereſts, and make the ſame Laws our common meaſures, becauſe they equally defend all our Lives, and eſtabliſh our Eſtates, and preſerve our Peace, ſettle our Properties, and maintain our Reli<g ref="char:EOLhyphen"/>gion; and do as much confirm our <hi>own Liberties,</hi> as the <hi>King's Prerogatives.</hi>
+            </p>
+            <p n="3">3. Since God has oblig'd the Conſci<g ref="char:EOLhyphen"/>ence to obey the Laws, becauſe the Prince is his Miniſter; we are to conſider Magi<g ref="char:EOLhyphen"/>ſtrates under that ſacred Character, which
+<pb n="29" facs="tcp:52592:17"/>
+God has given then, when he ſaid, <hi>they</hi> 
+               <note place="margin">
+                  <hi>Pſ.</hi> 82. 6.</note> 
+               <hi>are God's.</hi> They are his Vicegerents, and we muſt receive their commands, with the ſame readineſs and purpoſes of obedience. And though we may think ſome things which they preſcribe, are not neceſſary; yet obedience is; and it is not ſo much the excellency of the thing, as the Autho<g ref="char:EOLhyphen"/>rity which commands, that we are to conſider. And be confident there is no <hi>Church,</hi> nor <hi>Nation</hi> in the world, but con<g ref="char:EOLhyphen"/>tentious men may quarrel their Con<g ref="char:EOLhyphen"/>ſtitutions. But what then? muſt the peeviſh Subject be tolerated in every thing he is pleas'd to find fault with? then all Governments are precarious, and at the will of the People; and if the Prince will take Objections inſtead of Obedience, and eaſe his People in all thoſe things againſt which they can find an ar<g ref="char:EOLhyphen"/>gument, he may eaſily conclude by what has been, what will be again; Remit to them but one Law or two, and they will make a Breach upon all the reſt. It is better therefore that the Subject be taught to ſtudy their troubleſome Opinions leſs,
+<pb n="30" facs="tcp:52592:18"/>
+and Obedience more, not ſo much to keep up Parties, and promote ſtrifes, as Peace and Unity, Charity and Obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p n="4">4. I ſhall not be ſo vain to offer any Advice to my <hi>Lords,</hi> the <hi>Judges:</hi> They themſelves know very well, that to pre<g ref="char:EOLhyphen"/>vent farther Schiſm in the <hi>Church,</hi> and Sedition in the <hi>State,</hi> we muſt bring all our trifling contentions, and religious quarrels, to be determined by the <hi>Law.</hi> For, for ought that I can ſee, men will wran<g ref="char:EOLhyphen"/>gle perpetually, and they will be always confident; and every man will think it hard to lay down his Opinions at the King's feet; but therefore they muſt be brought to lay down their practi<g ref="char:EOLhyphen"/>ces, as he ſhall require them. For we are all agreed, that <hi>Kings</hi> and <hi>Parlia<g ref="char:EOLhyphen"/>ments,</hi> can make what Laws they think beſt; and when the Prince, either by Them, or by his Judges, has declar'd his will by the Law, or his meaning in it, here one would think it neceſ<g ref="char:EOLhyphen"/>ſary that all Peoples hands, and tongues ſhould be tyed up, that they neither
+<pb n="31" facs="tcp:52592:18"/>
+ſpeak, nor doe evil to the Law. And if any man ſhall object, that the Go<g ref="char:EOLhyphen"/>vernment has not obſerv'd right, and juſt meaſures in its Conſtitutions; be<g ref="char:EOLhyphen"/>ſides, that this cenſure does ariſe from Pride, and will go forth into Faction; My <hi>Lords the Judges,</hi> I hope, will quaſh the <hi>Inditement,</hi> and give ſentence for the <hi>King.</hi> For He can have no ends, but thoſe of Peace, and Religion; He has the Advantages of his own Pru<g ref="char:EOLhyphen"/>dence, and the wiſeſt Deliberations; He proceeds according to the former Laws, and the ſame Scriptures, and unites to his own, the Wiſedom of the Nation. And after all this, muſt pri<g ref="char:EOLhyphen"/>vate mens Opinions, conteſt with pub<g ref="char:EOLhyphen"/>lick Reſolutions? and the men of de<g ref="char:EOLhyphen"/>ſign be endur'd to bring the Laws in<g ref="char:EOLhyphen"/>to contempt, and the Nation into di<g ref="char:EOLhyphen"/>ſturbance, to deſpiſe Dominions, and ſpeak evil of the Prince? This is no way of Peace, nor Sobriety; nor can ever ſettle us: nothing can doe that, but Obedience.</p>
+            <p>
+               <pb n="32" facs="tcp:52592:19"/>
+And therefore I hope my <hi>Lords, the Judges,</hi> will bring all our People to the <hi>Laws,</hi> and a Conformity to the <hi>Eſta<g ref="char:EOLhyphen"/>bliſh'd Religion;</hi> that ſhall confirm our quiet, and our tranquillity; for no men give diſturbance to the State, but ſuch as depart from our Church. For as it is Religion that muſt make our Nation great and proſperous, ſo it is the trueſt Intereſt of it, to keep our People to an Union in it: conſidering how ſeverely we have ſmarted under the Factions, and Hypocriſies of thoſe men, that were the Cauſers of our Diviſions. And Se<g ref="char:EOLhyphen"/>paration is therefore the more intolera<g ref="char:EOLhyphen"/>ble, becauſe Religious Opinions, and Practices contrary to the Law, have not only an influence upon the mind; but the Preachers alſo can lead their Proſe<g ref="char:EOLhyphen"/>lytes, to what place, or againſt whom they pleaſe; for whoever is a <hi>Guide to Conſciences,</hi> may be a <hi>Captain of their Marches.</hi> That no man then be ſuffer'd to put an Affront upon the Law, nor ſpeak irreverently of the Prince; for the Laws are the ſecurity of our peace, and our
+<pb n="33" facs="tcp:52592:19"/>
+proſperity: and the King is the Repre<g ref="char:EOLhyphen"/>ſentative of God's Power and Majeſty; to ſpeak evil of him, is to blaſpheme Heaven. We have the beſt Prince, and the beſt Laws; and both are to be de<g ref="char:EOLhyphen"/>fended from the evil, and ingratefull treatments of malicious Adverſaries.</p>
+            <p>And that we may at laſt be quiet; Conſcience is not to be ſuffer'd to be made a Diſguiſe for the baſeſt Purpoſes; nor thoſe men to appropriate to them<g ref="char:EOLhyphen"/>ſelves the Appellation of tender minds, who will ſtick at no miſchief, when they can doe it with impunity, and with pro<g ref="char:EOLhyphen"/>ſperous Advantages.</p>
+            <p>But of all theſe things, my <hi>Lords the Judges</hi> will take care; that the Majeſty of the Prince be not leſſen'd, nor the Laws baffled, nor our Peace diſturb'd; but that we may obey, and <hi>pray for our King, and all that are in Authority under</hi> 
+               <note place="margin">1 <hi>Tim.</hi> 2. 1, 2.</note> 
+               <hi>him, that we may lead a quiet and happy life, in all Godlineſs, and Honeſty.</hi> Amen.</p>
+            <p>
+               <pb n="34" facs="tcp:52592:20"/>
+               <hi>Grant, Lord, we beſeech thee, that the courſe of this World may be ſo peaceably ordered by thy Gover<g ref="char:EOLhyphen"/>nance, that thy Church may joy<g ref="char:EOLhyphen"/>fully ſerve thee in all Godly quietneſs, through Jeſus Chriſt.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:52592:20"/>
+            <head>
+               <hi>Books printed for</hi> Joanna Brome.</head>
+            <p>THE Holy Inquiſition: wherein is repreſented what is the Religion of the Church of <hi>Rome,</hi> and how they are dealt with that diſſent from it. In <hi>Octavo.</hi>
+            </p>
+            <p>The Critick. Written originally in Spaniſh, and tranſlated into Engliſh: By <hi>Paul Ricaut,</hi> Eſquire. In <hi>Octavo.</hi>
+            </p>
+            <p>Hiſtory of the <hi>Charter-houſe.</hi> In <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Cotton</hi>'s Wonders of the <hi>Peak.</hi> In <hi>Octavo.</hi>
+            </p>
+            <p>A Proſpect of the State of <hi>Ireland</hi> from the year of the World 1756. to the year of <hi>Chriſt</hi> 1652. In <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Barbett</hi>'s Practice of Phyſick, with Dr. <hi>Deeker</hi>'s Notes. In <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Boſcobel;</hi> or the Compleat Hiſtory of His Majeſty's Preſervation at <hi>Worceſter.</hi>
+            </p>
+            <p>The Planters Manual.</p>
+            <p>The Exact Conſtable. In <hi>Twelves.</hi>
+            </p>
+            <p>The Reformed Monaſtery, or, the Love of <hi>Jeſus.</hi> In <hi>Twelves.</hi>
+            </p>
+            <p>Directions for the Education of a Young Prince. In <hi>Twelves.</hi>
+            </p>
+            <p>The Hiſtory of the <hi>Sevarites.</hi> Firſt and Second Part.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
